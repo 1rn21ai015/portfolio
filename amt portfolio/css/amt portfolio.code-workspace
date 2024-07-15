@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/Portofolio-Website-v2-main/Portofolio-Website-v2-main/ico"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "amt portfolio",
+		"liveServer.settings.port": 5501
+	}
+}
